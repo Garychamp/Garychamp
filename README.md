@@ -1,4 +1,5 @@
-## Hi there 👋
+<p align="center">
+  <img src="275ECE5F-B6BD-411C-A918-6DB67A6BA6AC.PNG" width="100%"></p>
 
 <!--
 **Garychamp/Garychamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
