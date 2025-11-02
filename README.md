@@ -26,7 +26,6 @@
 Here’s what I’ve been working on:
 
 - 🖥️ [**Portfolio Website**](https://yourwebsite.com) – my personal site showcasing skills & projects  
-- 🎮 [**JavaScript Mini Game**](https://github.com/yourproject) – fun interactive coding project   
 
 *(More coming soon — follow my journey as I build and learn!)*
 
