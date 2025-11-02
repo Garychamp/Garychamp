@@ -25,7 +25,7 @@
 ### 🧱 Projects
 Here’s what I’ve been working on:
 
-- 🖥️ [**Portfolio Website**](https://yourwebsite.com) – my personal site showcasing skills & projects  
+- 🖥️ [**Portfolio Website**](https://garychamp.github.io/MyMainWebsite/index.html) – my personal site showcasing skills & projects  
 
 *(More coming soon — follow my journey as I build and learn!)*
 
