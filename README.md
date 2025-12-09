@@ -47,8 +47,18 @@ Here’s what I’ve been working on:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garychamp&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garychamp&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <a href="https://github.com/Garychamp">
+    <img src="https://github-readme-stats.vercel.app/api?username=garychamp&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  </a>
+  <a href="https://github.com/Garychamp">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garychamp&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  </a>
+</p>
+
+<p align="center">
+  If the images above don't load, view them directly:
+  - GitHub Stats: https://github-readme-stats.vercel.app/api?username=garychamp&show_icons=true&theme=radical&hide_border=true
+  - Top Languages: https://github-readme-stats.vercel.app/api/top-langs/?username=garychamp&layout=compact&theme=radical&hide_border=true
 </p>
 
 ---
