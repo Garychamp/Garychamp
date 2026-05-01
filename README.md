@@ -1,4 +1,4 @@
-![Gary Hoare](./275ECE5F-B6BD-411C-A918-6DB67A6BA6AC.PNG)
+![Gary Hoare](./gary-hoare-github-header-2.svg)
 
 <h1 align="center">👾 Hey, I'm <span style="color:#00FFB3;">Gary</span>!</h1>
 
