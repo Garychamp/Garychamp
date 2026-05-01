@@ -1,7 +1,4 @@
-<!-- Retro 80s Banner -->
-<p align="center">
-  <img src="275ECE5F-B6BD-411C-A918-6DB67A6BA6AC.PNG" alt="Retro GitHub Banner" width="100%">
-</p>
+![Gary Hoare](./gary-hoare-github-header.svg)
 
 <h1 align="center">👾 Hey, I'm <span style="color:#00FFB3;">Gary</span>!</h1>
 
