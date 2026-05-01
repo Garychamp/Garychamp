@@ -1,4 +1,4 @@
-![Gary Hoare](./gary-hoare-github-header.svg)
+![Gary Hoare](./275ECE5F-B6BD-411C-A918-6DB67A6BA6AC.PNG)
 
 <h1 align="center">👾 Hey, I'm <span style="color:#00FFB3;">Gary</span>!</h1>
 
@@ -44,7 +44,7 @@ Here's what I've been working on:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Front-End+Developer;Always+Learning;Building+Cool+Things+With+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Front-End+Developer;Always+Learning;Building+Cool+Things+Wit[...]
 </p>
 
 ---
