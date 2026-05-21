@@ -48,18 +48,6 @@ Here's what I've been working on:
 ---
 
 <p align="center">
-  <a href="https://garychamp.github.io/MyMainWebsite/index.html" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Garychamp/Garychamp/main/gary-hoare-github-header-2.svg?theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Garychamp/Garychamp/main/gary-hoare-github-header-2.svg?theme=light">
-      <img src="https://raw.githubusercontent.com/Garychamp/Garychamp/main/gary-hoare-github-header-2.svg?theme=light" alt="Visit Gary's portfolio website" width="700">
-    </picture>
-  </a>
-</p>
-
----
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=Front-End+Developer;Always+Learning;Building+Cool+Things" alt="Typing animation"/>
 </p>
 
