@@ -48,11 +48,13 @@ Here's what I've been working on:
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="YOUR_DARK_VIDEO_PREVIEW_URL">
-    <source media="(prefers-color-scheme: light)" srcset="YOUR_LIGHT_VIDEO_PREVIEW_URL">
-    <img src="YOUR_LIGHT_VIDEO_PREVIEW_URL" alt="Video preview" width="700">
-  </picture>
+  <a href="https://garychamp.github.io/MyMainWebsite/index.html" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Garychamp/Garychamp/main/gary-hoare-github-header-2.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Garychamp/Garychamp/main/gary-hoare-github-header-2.svg">
+      <img src="https://raw.githubusercontent.com/Garychamp/Garychamp/main/gary-hoare-github-header-2.svg" alt="Visit Gary's portfolio website" width="700">
+    </picture>
+  </a>
 </p>
 
 ---
