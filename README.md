@@ -16,7 +16,7 @@
 - <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="16" height="16"/> **HTML5** – the structure behind every great website  
 - <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" width="16" height="16"/> **CSS3** – turning design into pixel-perfect layouts  
 - <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="16" height="16"/> **JavaScript** – bringing interactivity and logic to life  
-- <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="16" height="16"/> <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16"/> **Version Control (Git & GitHub)** – collaborating and tracking progress  
+- <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="16" height="16"/> <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16"/> **Version Control** – learning Git workflows and GitHub collaboration  
 - <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="16" height="16"/> **Docker** – containerizing and running applications in my homelab  
 
 ---
@@ -48,7 +48,17 @@ Here's what I've been working on:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=Front-End+Developer;Always+Learning;Building+Cool+Things+With+Code;Homelabber+%7C+Docker+Enthusiast"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="YOUR_DARK_VIDEO_PREVIEW_URL">
+    <source media="(prefers-color-scheme: light)" srcset="YOUR_LIGHT_VIDEO_PREVIEW_URL">
+    <img src="YOUR_LIGHT_VIDEO_PREVIEW_URL" alt="Video preview" width="700">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=Front-End+Developer;Always+Learning;Building+Cool+Things" alt="Typing animation"/>
 </p>
 
 ---
