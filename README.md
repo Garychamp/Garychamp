@@ -19,8 +19,6 @@
 - <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="16" height="16"/> <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16"/> **Version Control** – managing projects with Git & GitHub
 - <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="16" height="16"/> **Docker** – containerizing and running applications in my homelab
 - <img src="https://cdn.simpleicons.org/tryhackme/00E7A3" alt="TryHackMe" width="16" height="16"/> **TryHackMe** – learning cybersecurity through hands-on labs and guided courses
-- <img src="https://cdn.simpleicons.org/tryhackme/00E7A3" alt="PreSecurity" width="16" height="16"/> **PreSecurity** – completed and built my foundation in cyber fundamentals
-- <img src="https://cdn.simpleicons.org/tryhackme/00E7A3" alt="Security 101" width="16" height="16"/> **Security 101** – currently learning core security concepts and best practices
 
 ---
 
